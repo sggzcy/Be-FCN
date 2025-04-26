@@ -26,7 +26,7 @@ which has been submitted to Computers & Geosciences.
   Directly compute the root mean square errors for the variables.
 
 ## Folders
-- **Gravimetric factors**   
+- **Gravimetric factors** 
   The folder contains the gravimetric factors (delta) for 45 SG sequences of 6 tidal waves (Q1, O1, P1, K1, Psi1, and Phi1),
   which were obtained through analysis using the ETERNA 3.40 software.
   
